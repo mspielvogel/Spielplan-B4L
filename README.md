@@ -11,12 +11,13 @@
 
 ## Usage
 ### Generate groups and gameplan
-
+python3 spielplan.py --spielplanvorrunde
 
 ### Update and Upload results from .csv sheet
-
+python3 spielplan.py --vorrunde
 
 ### Generate gameplan for the finals
-
+python3 spielplan.py --spielplanfinals
 
 ### Update and Upload results finals from .csv sheet
+python3 spielplan.py --finals
