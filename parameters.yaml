@@ -1,0 +1,15 @@
+datum: "05.09.2020"
+plaetze: 4
+
+startzeit: "10:30"
+spielzeit_vorrunde: 12
+pause_vorrunde: 3  #zu kurz
+gewuenschte_gruppengroesse: 4
+
+finals_start: "14:30"
+spielzeit_finalrunde: 15
+pause_finalrunde: 5
+finale: 8 #-telfinal
+
+folder_upload: /home/msp/Documents/Spielplan-B4L/to_upload/
+folder_tables: /home/msp/Documents/Spielplan-B4L/tables/
